@@ -3,7 +3,7 @@
 ![Rigs front view](Front_view.jpg)
 
 ## Paper :
-Mickael Delamare<sup>1</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
+Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
 
  
 <sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
