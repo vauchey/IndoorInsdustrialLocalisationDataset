@@ -3,10 +3,13 @@
 ![Rigs front view](Front_view.jpg)
 
 ## Paper :
-Mickael Delamare<sup>[1](#siatech)</sup><sup>[3](#esigelec)</sup>, Fabrice Duval<sup>[2](#esigelec)</sup> and  Remi Boutteau<sup>[3](#cesi)</sup>
-<a name="siatech">1</a>: SIAtech SAS, 73 RUE MARTAINVILLE 76000 ROUEN, France.; mickael.delamare@siatech.fr (M.D.)
-<a name="cesi">2</a>: Normandie Univ, UNIROUEN, CESI, LINEAC, 76000 ROUEN, France.; fduval@cesi.fr  (F.D.)
-<a name="esigelec">3</a>: Normandie Univ, UNIROUEN, ESIGELEC, IRSEEM, 76000 ROUEN, France.; boutteau@esigelec.fr (R.B.)
+Mickael Delamare<sup>1</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
+
+ 
+<sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
+<sup>2</sup>[cesi](http://www.cesi.fr.),   Normandie Univ, UNIROUEN, CESI, LINEAC, 76000 ROUEN, France, fduval@cesi.fr   
+<sup>3</sup>[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, boutteau@esigelec.fr
+
 
 ## Datasets :
 
