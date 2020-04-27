@@ -8,9 +8,10 @@
 ## Abstract :
 <p style="text-align:justify";>
 Improving performance and safety conditions at industrial sites remains key elements of the Group's strategy.
-Major issues and specifically require the ability to dynamically locate people and assets on the site. Currently, the security and regulation of access to areas with different characteristics (types of tasks, level of risk or confidentiality...) are often carried out with badge doors or barriers. These means present several weaknesses in the face of inappropriate movements of people, but also of objects or tools. Also, there is an increasing use of technological devices requiring precise localization in the industrial environment such as AGVs (mobile robots or drones) or augmented reality devices.
+Major issues specifically require the ability to dynamically locate people and assets on the site. Currently, the security and regulation of access to areas with different characteristics (types of tasks, level of risk or confidentiality...) are often carried out with badge doors or barriers. These means present several weaknesses in the face of inappropriate movements of people, but also of objects or tools. Also, there is an increasing use of technological devices requiring precise localization in the industrial environment such as AGVs (mobile robots or drones) or augmented reality devices.
 It is therefore becoming essential to have tools to dynamically manage these flows of people or goods associated with precise location technologies. An Ultra-Wide-Band solution will be employed to quickly and efficiently identify persons who may find themselves in unauthorized areas or perform tasks for which they are uninstructed.
-Besides to dynamic people tracking, this solution can overcome problems of moving objects and tools in the production workshops. We propose a new algorithm to have information about the displacement of workers and evaluate performance and safety of workers.</p>
+Besides dynamic people tracking, this solution can overcome problems of moving objects and tools in the production workshops. We propose a new algorithm to have information about the displacement of workers and evaluate performance and safety of workers.</p>
+
 ## Paper :
 
 Link : Under submission to IEEE Transaction on Industrial and Electronics
@@ -28,9 +29,9 @@ Dataset of each position of person'Rig.
 
 The dataset is compose of two '.zip' : 
 
-Filtered_datas_UWB.zip : 
+1)  Raw_datas_UWB_Mocap.zip : Raw datas of both UWB and Mocap in the same frame of reference.
 
-Raw_datas_UWB_Mocap.zip : 
+2) Filtered_datas_UWB.zip : UWB datas filtered in the same frame of reference as previous to provide a direct comparison.
 
 <p align="center">
 <img src="IndoorUWB_Mocap.gif">
