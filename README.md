@@ -1,6 +1,9 @@
 # Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system and a motion capture system in NLOS done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
 
+<img src="Front_view.jpg" width="600">
 ![Rigs front view](Front_view.jpg)
+
+![Gif Indoor](IndoorUWB_Mocap.gif)
 
 ## Paper :
 Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
