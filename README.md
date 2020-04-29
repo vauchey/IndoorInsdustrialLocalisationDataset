@@ -27,6 +27,11 @@ Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutte
 
 Dataset of each position of person.
 
+We provide two modalities : 
+
+-A motion capture system called Mocap with an millimetric accuracy
+-An Ultra Wide Band system (The MDEK1001 from Decawave) with a centimeter accuracy.
+
 The dataset is composed of two '.zip' : 
 
 1)  Raw_datas_UWB_Mocap.zip : Raw datas of both UWB and Mocap in the same frame of reference. It contains each person (Rig1 to Rig6).
