@@ -47,4 +47,4 @@ The dataset is composed of two '.zip' :
 <img src="IndoorUWB_Mocap.gif">
 </p>
 
-DOI : dataset availables soon after article accepted
+DOI of linked article : dataset availables soon after article accepted
