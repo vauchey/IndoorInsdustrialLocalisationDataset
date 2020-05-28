@@ -15,7 +15,9 @@ Besides dynamic people tracking, this solution can overcome problems of moving o
 ## Paper :
 
 Link :  https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
+
 DOI : 10.21227/v5p4-5q64
+
 Under submission to IEEE Transactions on Industrial Informatics
 
 Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
