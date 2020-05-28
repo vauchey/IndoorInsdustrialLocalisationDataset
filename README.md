@@ -1,4 +1,4 @@
-# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system and a motion capture system in NLOS done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
+# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system in NLOS and a motion capture system  done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
 
 <p align="center">
 <img src="Front_view.jpg" width="600">
@@ -15,6 +15,7 @@ Besides dynamic people tracking, this solution can overcome problems of moving o
 ## Paper :
 
 Link :  https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
+DOI : 10.21227/v5p4-5q64
 Under submission to IEEE Transactions on Industrial Informatics
 
 Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
@@ -44,4 +45,4 @@ The dataset is composed of two '.zip' :
 <img src="IndoorUWB_Mocap.gif">
 </p>
 
-Link : dataset availables soon after article accepted
+DOI : dataset availables soon after article accepted
