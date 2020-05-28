@@ -1,5 +1,4 @@
-# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system in NLOS and a motion capture system  done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
-
+# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system in NLOS and a motion capture system 
 <p align="center">
 <img src="Front_view.jpg" width="600">
 </p>
@@ -20,12 +19,10 @@ DOI : 10.21227/v5p4-5q64
 
 Under submission to IEEE Transactions on Industrial Informatics
 
-Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
+
 
  
-<sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
-<sup>2</sup>[cesi](http://www.cesi.fr.),   Normandie Univ, UNIROUEN, CESI, LINEAC, 76000 ROUEN, France, fduval@cesi.fr   
-<sup>3</sup>[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, boutteau@esigelec.fr
+
 
 
 ## Datasets :
