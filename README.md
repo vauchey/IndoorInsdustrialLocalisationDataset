@@ -1,8 +1,8 @@
-# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system in NLOS and a motion capture system 
+# Main page of dataset of person flows during an assembly phase in an industrial site with an UWB system in NLOS and a motion capture system done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
 <p align="center">
 <img src="Front_view.jpg" width="600">
 </p>
-done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
+
  
 
 
