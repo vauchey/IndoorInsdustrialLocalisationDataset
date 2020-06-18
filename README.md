@@ -13,14 +13,20 @@ Besides dynamic people tracking, this solution can overcome problems of moving o
 
 ## Paper :
 
+<sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
+<sup>2</sup>[cesi](http://www.cesi.fr.),   Normandie Univ, UNIROUEN, CESI, LINEAC, 76000 ROUEN, France, fduval@cesi.fr   
+<sup>3</sup>[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, boutteau@esigelec.fr
+
+Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
+
 Link :  https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
 
 DOI : Given after article accepted
 
-Under submission to IEEE Transactions on Industrial Informatics
+Under submission to the journal Sensors (MDPI)
 
 
-
+done by [CESI](https://www.cesi.fr/), [ESIGELEC](https://www.esigelec.fr/) and [SIATECH](https://www.siatech.fr/)
  
 
 
