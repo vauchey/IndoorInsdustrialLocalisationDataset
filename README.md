@@ -23,11 +23,11 @@ Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutte
 
 
 
-Link :  https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
+Link : https://www.mdpi.com/1424-8220/20/16/4511
 
-DOI : Given after article accepted
+DOI : https://doi.org/10.3390/s20164511
 
-Under submission to the journal Sensors (MDPI)
+Accepted to the journal Sensors (MDPI)
 
 
 
@@ -52,4 +52,4 @@ The dataset is composed of two '.zip' :
 <img src="IndoorUWB_Mocap.gif">
 </p>
 
-DOI of linked article : dataset availables soon after article accepted
+Link : https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
