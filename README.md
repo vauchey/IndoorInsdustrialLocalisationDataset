@@ -53,3 +53,16 @@ The dataset is composed of two '.zip' :
 </p>
 
 Link : https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
+
+If you use this dataset, please cite us: 
+
+@article{delamare2020new,
+  title={A New Dataset of People Flow in an Industrial Site with UWB and Motion Capture Systems},
+  author={Delamare, Mickael and Duval, Fabrice and Boutteau, Remi},
+  journal={Sensors},
+  volume={20},
+  number={16},
+  pages={4511},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
