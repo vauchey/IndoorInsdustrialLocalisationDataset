@@ -52,7 +52,7 @@ The dataset is composed of two '.zip' :
 <img src="IndoorUWB_Mocap.gif">
 </p>
 
-Link : https://esigelec-my.sharepoint.com/:f:/g/personal/vauchey_esigelec_fr/EotF_ZK6FAJNhmjHNg76jeEBrNzNOXVQqnkUOe_SE1NKsw?e=u7hfqG
+Link : <a href="https://doi.org/10.5281/zenodo.7732563"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7732563.svg" alt="DOI"></a>
 
 If you use this dataset, please cite us: 
 
