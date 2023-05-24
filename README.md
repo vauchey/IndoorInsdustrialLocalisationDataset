@@ -17,8 +17,8 @@ Besides dynamic people tracking, this solution can overcome problems of moving o
 
 Mickael Delamare<sup>1</sup><sup>3</sup>, Fabrice Duval<sup>2</sup>, Remi Boutteau<sup>3</sup>.  
 
-<sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN,mickael.delamare@siatech.fr   
-<sup>2</sup>[cesi](http://www.cesi.fr.),   Normandie Univ, UNIROUEN, CESI, LINEAC, 76000 ROUEN, France, fduval@cesi.fr   
+<sup>1</sup>[siatech](https://www.siatech.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, mickael.delamare@siatech.fr   
+<sup>2</sup>[LINEACT-CESI](https://lineact.cesi.fr/), LINEACT-CESI, Rouen campus, France, fduval@cesi.fr   
 <sup>3</sup>[ESIGELEC](http://www.esigelec.fr/) , IRSEEM, Rouen, France, Normandie Univ, UNIROUEN, boutteau@esigelec.fr
 
 
